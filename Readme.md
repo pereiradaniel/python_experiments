@@ -5,6 +5,8 @@ Folder for files used in python programming language experiments.
 
 ## /not_and_or
 
+## true_false.py
+
 From Codecademy python tutorial:
 
 ```
@@ -32,5 +34,27 @@ bool_five = False or not (True and True)
 
 ```
 
+```
+Comparators
+
+3 < 4
+5 >= 5
+10 == 10
+12 != 13
+Boolean operators
+
+True or False 
+(3 < 4) and (5 >= 5)
+this() and not that()
+Conditional statements
+
+if this_might_be_true():
+  print "This really is true."
+elif that_might_be_true():
+  print "That is true."
+else:
+  print "None of the above."
+
+```
 
 _*Daniel Paul Grech Pereira 2018*_
