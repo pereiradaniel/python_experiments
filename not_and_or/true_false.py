@@ -24,3 +24,13 @@ bool_two_or = False or True
 # bool_two_or evaluates to True
 # Final value for equation is True
 
+# bool_three analyzed
+bool_three = True and not (False or False)
+# bool_three evaluates to True
+bool_three_parentheses = (False or False)
+# bool_three_parentheses evaluaes to False
+bool_three_not = not False
+# bool_three_not evaluates to True
+bool_three_and = True and True
+# bool_three_and evaluates to True
+# Final value for equation is True
