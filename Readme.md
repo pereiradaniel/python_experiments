@@ -62,4 +62,6 @@ else:
 
 Using conditionals to evaluate user input.  Prompts user for input then returns name unchanged as well as in pyg latin.
 
+
+---
 _*Daniel Paul Grech Pereira 2018*_
