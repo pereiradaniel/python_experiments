@@ -41,6 +41,9 @@ Comparators
 5 >= 5
 10 == 10
 12 != 13
+```
+
+```
 Boolean operators
 
 True or False 
