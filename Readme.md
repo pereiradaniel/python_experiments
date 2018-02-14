@@ -1,7 +1,6 @@
 # PYTHON EXPERIMENTS
 ---
 
-Folder for files used in python programming language experiments.
 
 ## /not_and_or
 
