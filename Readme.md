@@ -62,7 +62,7 @@ else:
 
 ## greeting.py
 
-Using conditionals to evaluate user input.  Prompts user for input then returns name unchanged as well as in pyg latin.  Uses newer python syntax.
+Using conditionals to evaluate user input.  Prompts user for input then returns name unchanged as well as in pyg latin.  Uses newer Python 3.4+ syntax.
 
 
 ---
