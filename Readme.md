@@ -4,7 +4,7 @@
 
 ## /not_and_or
 
-## true_false.py
+### true_false.py
 
 From Codecademy python tutorial:
 
@@ -60,7 +60,7 @@ else:
 
 ## /raw_input
 
-## greeting.py
+### greeting.py
 
 Using conditionals to evaluate user input.  Prompts user for input then returns name unchanged as well as in pyg latin.  Uses newer Python 3.4+ syntax.
 
