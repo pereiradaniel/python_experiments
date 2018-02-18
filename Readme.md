@@ -1,6 +1,7 @@
 # PYTHON EXPERIMENTS
 ---
 
+Some Python experiments are notes from Codecademy python course.
 
 ## /not_and_or
 
