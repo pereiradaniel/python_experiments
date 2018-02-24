@@ -1,8 +1,7 @@
 # PYTHON EXPERIMENTS
 ---
 
-Some Python experiments are notes from Codecademy python course.
-Some experiments use different versions of Python.
+Some Python experiments are notes from Codecademy python course.  Some experiments use different versions of Python.
 
 ## /not_and_or
 
