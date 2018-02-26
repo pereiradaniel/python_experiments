@@ -7,7 +7,7 @@ Some Python experiments are notes from Codecademy python course.  Some experimen
 
 ### true_false.py
 
-From Codecademy python tutorial:
+_From Codecademy python tutorial:_
 
 ```
 This and That (or This, But Not That!)
