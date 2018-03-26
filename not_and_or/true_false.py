@@ -34,3 +34,5 @@ bool_three_not = not False
 bool_three_and = True and True
 # bool_three_and evaluates to True
 # Final value for equation is True
+bool_four_test = True
+# Equals true
